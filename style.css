@@ -1,0 +1,61 @@
+table{
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 80%;
+    padding: 0%;
+}
+.table2{
+    /* align-content: center; */
+    width: 50%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+.h1{
+    text-align: center;
+    color: blueviolet;
+    /* background-color: bisque; */
+}
+td{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    
+    
+    /* border-color: blueviolet; */
+   
+    
+}
+.unknown{
+    border: 1px solid white;
+}
+.green{
+    background-color: green;
+    border-color: darkgreen;
+   
+}
+.orange{
+    background-color: orange;
+    border-color: darkorange;
+}
+.pink{
+    background-color: pink;
+    border-color: darkred;
+}
+.yellow{
+    background-color: yellow;
+    border-color: darkgoldenrod;
+}
+.blue{
+    background-color: rebeccapurple;
+    border-color: darkblue;
+}
+.red{
+    background-color: red;
+    border-color: pink;
+}
+/* table{
+    padding: 0%;
+} */
+/* .pad{
+    padding: 0%;
+} */
